@@ -56,9 +56,9 @@ function hotelCost(days)
 
 
 //#megaFriends
-function megaFriend()
+function megaFriend(friendsName=["promit","zikrul","anti virus","atiq"])
 {
-var friendsName=["promit","zikrul","anti virus","atiq"];
+
 
 var max = friendsName[0];
 for(var i = 0; i< friendsName.length;i++)
